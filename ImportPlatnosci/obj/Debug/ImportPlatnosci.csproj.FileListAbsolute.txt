@@ -1,0 +1,11 @@
+C:\Users\dawid\source\repos\Olympic\bin\Debug\ImportPlatnosci.deps.json
+C:\Users\dawid\source\repos\Olympic\bin\Debug\ImportPlatnosci.dll
+C:\Users\dawid\source\repos\Olympic\bin\Debug\ImportPlatnosci.pdb
+C:\Users\dawid\source\repos\Olympic\ImportPlatnosci\obj\Debug\ImportPlatnosci.csproj.AssemblyReference.cache
+C:\Users\dawid\source\repos\Olympic\ImportPlatnosci\obj\Debug\ImportPlatnosci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\Olympic\ImportPlatnosci\obj\Debug\ImportPlatnosci.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\Olympic\ImportPlatnosci\obj\Debug\ImportPlatnosci.AssemblyInfo.cs
+C:\Users\dawid\source\repos\Olympic\ImportPlatnosci\obj\Debug\ImportPlatnosci.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\Olympic\ImportPlatnosci\obj\Debug\ImportPlatnosci.csproj.CopyComplete
+C:\Users\dawid\source\repos\Olympic\ImportPlatnosci\obj\Debug\ImportPlatnosci.dll
+C:\Users\dawid\source\repos\Olympic\ImportPlatnosci\obj\Debug\ImportPlatnosci.pdb

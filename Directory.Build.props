@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SonetaPackageVersion>2212.6.19</SonetaPackageVersion>
+    <SonetaTargetFramework>netstandard2.0</SonetaTargetFramework>
+    <SonetaTestsTargetFramework>net472</SonetaTestsTargetFramework>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <SonetaAddonStartProgram>C:\Program Files (x86)\Soneta\enova365 2212.6.19.0\SonetaExplorer.exe</SonetaAddonStartProgram>
+  </PropertyGroup>
+</Project>
