@@ -13,11 +13,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImportPlatnosci")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("4.1.4.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("4.1.4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImportPlatnosci")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImportPlatnosci")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("4.1.4.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
 

@@ -1,5 +1,4 @@
 ﻿using ExcelDataReader;
-using ICSharpCode.NRefactory.TypeSystem;
 using Soneta.Business;
 using Soneta.Business.UI;
 using Soneta.CRM;

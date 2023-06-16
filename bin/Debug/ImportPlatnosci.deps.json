@@ -7,12 +7,12 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "ImportPlatnosci/1.0.0": {
+      "ImportPlatnosci/4.1.4": {
         "dependencies": {
           "ExcelDataReader": "3.6.0",
           "ExcelDataReader.DataSet": "3.6.0",
           "NETStandard.Library": "2.0.3",
-          "Soneta.Products.Modules": "2212.6.19",
+          "Soneta.Products.Modules": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         },
         "runtime": {
@@ -533,16 +533,16 @@
           "Serilog": "2.10.0"
         }
       },
-      "Soneta.BI/2212.6.19": {
+      "Soneta.BI/2212.5.16": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3",
-          "Soneta.Core": "2212.6.19",
-          "Soneta.Data": "2212.6.19",
+          "Soneta.Core": "2212.5.16",
+          "Soneta.Data": "2212.5.16",
           "Soneta.Generator": "12.2.0",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.Business/2212.6.19": {
+      "Soneta.Business/2212.5.16": {
         "dependencies": {
           "AdysTech.CredentialManager": "2.3.0",
           "Grace.DependencyInjection.Extensions": "7.1.0",
@@ -556,93 +556,93 @@
           "Microsoft.Extensions.Logging": "5.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "5.0.0",
           "Newtonsoft.Json": "12.0.3",
-          "Soneta.Data": "2212.6.19",
+          "Soneta.Data": "2212.5.16",
           "Soneta.Generator": "12.2.0",
-          "Soneta.Logging": "2212.6.19",
-          "Soneta.Start": "2212.6.19",
+          "Soneta.Logging": "2212.5.16",
+          "Soneta.Start": "2212.5.16",
           "System.IdentityModel.Tokens.Jwt": "6.8.0",
           "System.Resources.Extensions": "4.7.0",
           "System.ValueTuple": "4.5.0",
           "iTextSharp-LGPL": "4.1.6"
         }
       },
-      "Soneta.Business.Licence/2212.6.19": {
+      "Soneta.Business.Licence/2212.5.16": {
         "dependencies": {
-          "Soneta.Business": "2212.6.19",
+          "Soneta.Business": "2212.5.16",
           "Soneta.Licence.Local.Proxy": "1.0.0",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.Core/2212.6.19": {
+      "Soneta.Core/2212.5.16": {
         "dependencies": {
           "HtmlAgilityPack": "1.4.9",
           "Ical.Net": "4.1.10",
           "Microsoft.Bcl.HashCode": "1.1.0",
           "Newtonsoft.Json": "12.0.3",
           "RabbitMQ.Client": "3.4.0",
-          "Soneta.Business": "2212.6.19",
+          "Soneta.Business": "2212.5.16",
           "Soneta.Generator": "12.2.0",
           "Syncfusion.Pdf.OCR.WinForms": "17.2.0.46",
           "Syncfusion.XlsIO.WinForms": "17.2.0.46",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.CRM/2212.6.19": {
+      "Soneta.CRM/2212.5.16": {
         "dependencies": {
           "Google.Apis.Auth": "1.54.0",
           "HtmlAgilityPack": "1.4.9",
           "Mail.dll": "3.0.20007.1248",
           "Microsoft.Identity.Client": "4.45.0",
           "Newtonsoft.Json": "12.0.3",
-          "Soneta.Business": "2212.6.19",
-          "Soneta.Core": "2212.6.19",
+          "Soneta.Business": "2212.5.16",
+          "Soneta.Core": "2212.5.16",
           "Soneta.Generator": "12.2.0",
-          "Soneta.Kasa": "2212.6.19",
-          "Soneta.Types": "2212.6.19",
+          "Soneta.Kasa": "2212.5.16",
+          "Soneta.Types": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.CzlonkowieSzkolenia/2212.6.19": {
+      "Soneta.CzlonkowieSzkolenia/2212.5.16": {
         "dependencies": {
-          "Soneta.Business": "2212.6.19",
-          "Soneta.CRM": "2212.6.19",
-          "Soneta.Core": "2212.6.19",
-          "Soneta.Deklaracje": "2212.6.19",
+          "Soneta.Business": "2212.5.16",
+          "Soneta.CRM": "2212.5.16",
+          "Soneta.Core": "2212.5.16",
+          "Soneta.Deklaracje": "2212.5.16",
           "Soneta.Generator": "12.2.0",
-          "Soneta.Handel": "2212.6.19",
-          "Soneta.KadryPlace": "2212.6.19",
-          "Soneta.Kasa": "2212.6.19",
-          "Soneta.Ksiega": "2212.6.19",
-          "Soneta.Types": "2212.6.19",
-          "Soneta.Zadania": "2212.6.19",
+          "Soneta.Handel": "2212.5.16",
+          "Soneta.KadryPlace": "2212.5.16",
+          "Soneta.Kasa": "2212.5.16",
+          "Soneta.Ksiega": "2212.5.16",
+          "Soneta.Types": "2212.5.16",
+          "Soneta.Zadania": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.Data/2212.6.19": {
+      "Soneta.Data/2212.5.16": {
         "dependencies": {
           "Microsoft.CSharp": "4.7.0",
-          "Soneta.Types": "2212.6.19",
+          "Soneta.Types": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.Deklaracje/2212.6.19": {
+      "Soneta.Deklaracje/2212.5.16": {
         "dependencies": {
           "Soneta.Generator": "12.2.0",
-          "Soneta.Ksiega": "2212.6.19",
+          "Soneta.Ksiega": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.EI/2212.6.19": {
+      "Soneta.EI/2212.5.16": {
         "dependencies": {
-          "Soneta.Business": "2212.6.19",
-          "Soneta.CRM": "2212.6.19",
-          "Soneta.Core": "2212.6.19",
-          "Soneta.Deklaracje": "2212.6.19",
-          "Soneta.Handel": "2212.6.19",
-          "Soneta.KadryPlace": "2212.6.19",
-          "Soneta.Kasa": "2212.6.19",
-          "Soneta.Ksiega": "2212.6.19",
-          "Soneta.Types": "2212.6.19",
+          "Soneta.Business": "2212.5.16",
+          "Soneta.CRM": "2212.5.16",
+          "Soneta.Core": "2212.5.16",
+          "Soneta.Deklaracje": "2212.5.16",
+          "Soneta.Handel": "2212.5.16",
+          "Soneta.KadryPlace": "2212.5.16",
+          "Soneta.Kasa": "2212.5.16",
+          "Soneta.Ksiega": "2212.5.16",
+          "Soneta.Types": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         }
       },
@@ -652,43 +652,43 @@
         }
       },
       "Soneta.GoogleServiceProvider/3.1.0": {},
-      "Soneta.Handel/2212.6.19": {
+      "Soneta.Handel/2212.5.16": {
         "dependencies": {
-          "Soneta.Business": "2212.6.19",
-          "Soneta.CRM": "2212.6.19",
+          "Soneta.Business": "2212.5.16",
+          "Soneta.CRM": "2212.5.16",
           "Soneta.Generator": "12.2.0",
-          "Soneta.KadryPlace": "2212.6.19",
-          "Soneta.Types": "2212.6.19",
+          "Soneta.KadryPlace": "2212.5.16",
+          "Soneta.Types": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.KadryPlace/2212.6.19": {
+      "Soneta.KadryPlace/2212.5.16": {
         "dependencies": {
           "CsvHelper": "27.0.1",
-          "Soneta.CRM": "2212.6.19",
+          "Soneta.CRM": "2212.5.16",
           "Soneta.Generator": "12.2.0",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.Kasa/2212.6.19": {
+      "Soneta.Kasa/2212.5.16": {
         "dependencies": {
           "JetBrains.Annotations": "10.0.0",
-          "Soneta.Core": "2212.6.19",
+          "Soneta.Core": "2212.5.16",
           "Soneta.Generator": "12.2.0",
-          "Soneta.Types": "2212.6.19",
+          "Soneta.Types": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.Ksiega/2212.6.19": {
+      "Soneta.Ksiega/2212.5.16": {
         "dependencies": {
-          "Soneta.Business": "2212.6.19",
-          "Soneta.CRM": "2212.6.19",
-          "Soneta.Core": "2212.6.19",
+          "Soneta.Business": "2212.5.16",
+          "Soneta.CRM": "2212.5.16",
+          "Soneta.Core": "2212.5.16",
           "Soneta.Generator": "12.2.0",
-          "Soneta.Handel": "2212.6.19",
-          "Soneta.KadryPlace": "2212.6.19",
-          "Soneta.Kasa": "2212.6.19",
-          "Soneta.Types": "2212.6.19",
+          "Soneta.Handel": "2212.5.16",
+          "Soneta.KadryPlace": "2212.5.16",
+          "Soneta.Kasa": "2212.5.16",
+          "Soneta.Types": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         }
       },
@@ -704,7 +704,7 @@
           "Soneta.Licence.Local": "1.0.0"
         }
       },
-      "Soneta.Logging/2212.6.19": {
+      "Soneta.Logging/2212.5.16": {
         "dependencies": {
           "Destructurama.JsonNet": "2.0.0",
           "Microsoft.Extensions.Configuration.Binder": "5.0.0",
@@ -715,70 +715,70 @@
           "Serilog.Extensions.Logging": "3.1.0",
           "Serilog.Sinks.Console": "4.0.0",
           "Serilog.Sinks.File": "5.0.0",
-          "Soneta.Types": "2212.6.19",
+          "Soneta.Types": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.Products.Content/2212.6.19": {
+      "Soneta.Products.Content/2212.5.16": {
         "dependencies": {
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.Products.Modules/2212.6.19": {
+      "Soneta.Products.Modules/2212.5.16": {
         "dependencies": {
-          "Soneta.BI": "2212.6.19",
-          "Soneta.Business": "2212.6.19",
-          "Soneta.Business.Licence": "2212.6.19",
-          "Soneta.CRM": "2212.6.19",
-          "Soneta.Core": "2212.6.19",
-          "Soneta.CzlonkowieSzkolenia": "2212.6.19",
-          "Soneta.Data": "2212.6.19",
-          "Soneta.Deklaracje": "2212.6.19",
-          "Soneta.EI": "2212.6.19",
-          "Soneta.Handel": "2212.6.19",
-          "Soneta.KadryPlace": "2212.6.19",
-          "Soneta.Kasa": "2212.6.19",
-          "Soneta.Ksiega": "2212.6.19",
-          "Soneta.Logging": "2212.6.19",
-          "Soneta.Products.Content": "2212.6.19",
-          "Soneta.RealEstate": "2212.6.19",
-          "Soneta.Start": "2212.6.19",
-          "Soneta.Support": "2212.6.19",
-          "Soneta.Types": "2212.6.19",
-          "Soneta.Web.Business": "2212.6.19",
-          "Soneta.Workflow": "2212.6.19",
-          "Soneta.Zadania": "2212.6.19",
+          "Soneta.BI": "2212.5.16",
+          "Soneta.Business": "2212.5.16",
+          "Soneta.Business.Licence": "2212.5.16",
+          "Soneta.CRM": "2212.5.16",
+          "Soneta.Core": "2212.5.16",
+          "Soneta.CzlonkowieSzkolenia": "2212.5.16",
+          "Soneta.Data": "2212.5.16",
+          "Soneta.Deklaracje": "2212.5.16",
+          "Soneta.EI": "2212.5.16",
+          "Soneta.Handel": "2212.5.16",
+          "Soneta.KadryPlace": "2212.5.16",
+          "Soneta.Kasa": "2212.5.16",
+          "Soneta.Ksiega": "2212.5.16",
+          "Soneta.Logging": "2212.5.16",
+          "Soneta.Products.Content": "2212.5.16",
+          "Soneta.RealEstate": "2212.5.16",
+          "Soneta.Start": "2212.5.16",
+          "Soneta.Support": "2212.5.16",
+          "Soneta.Types": "2212.5.16",
+          "Soneta.Web.Business": "2212.5.16",
+          "Soneta.Workflow": "2212.5.16",
+          "Soneta.Zadania": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.RealEstate/2212.6.19": {
+      "Soneta.RealEstate/2212.5.16": {
         "dependencies": {
-          "Soneta.Business": "2212.6.19",
-          "Soneta.Core": "2212.6.19",
+          "Soneta.Business": "2212.5.16",
+          "Soneta.Core": "2212.5.16",
           "Soneta.Generator": "12.2.0",
-          "Soneta.Types": "2212.6.19",
-          "Soneta.Zadania": "2212.6.19",
+          "Soneta.Types": "2212.5.16",
+          "Soneta.Zadania": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.Start/2212.6.19": {
+      "Soneta.Start/2212.5.16": {
         "dependencies": {
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.Support/2212.6.19": {
+      "Soneta.Support/2212.5.16": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3",
-          "Soneta.Business": "2212.6.19",
-          "Soneta.CRM": "2212.6.19",
-          "Soneta.Core": "2212.6.19",
+          "Soneta.Business": "2212.5.16",
+          "Soneta.CRM": "2212.5.16",
+          "Soneta.Core": "2212.5.16",
           "Soneta.Generator": "12.2.0",
-          "Soneta.Handel": "2212.6.19",
-          "Soneta.Types": "2212.6.19",
+          "Soneta.Handel": "2212.5.16",
+          "Soneta.Types": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.Types/2212.6.19": {
+      "Soneta.Types/2212.5.16": {
         "dependencies": {
           "Microsoft.Windows.Compatibility": "3.0.0",
           "Newtonsoft.Json": "12.0.3",
@@ -786,47 +786,47 @@
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.Web.Business/2212.6.19": {
+      "Soneta.Web.Business/2212.5.16": {
         "dependencies": {
-          "Soneta.Business": "2212.6.19",
-          "Soneta.CRM": "2212.6.19",
-          "Soneta.Core": "2212.6.19",
-          "Soneta.Deklaracje": "2212.6.19",
+          "Soneta.Business": "2212.5.16",
+          "Soneta.CRM": "2212.5.16",
+          "Soneta.Core": "2212.5.16",
+          "Soneta.Deklaracje": "2212.5.16",
           "Soneta.Generator": "12.2.0",
-          "Soneta.Handel": "2212.6.19",
-          "Soneta.Kasa": "2212.6.19",
-          "Soneta.RealEstate": "2212.6.19",
-          "Soneta.Types": "2212.6.19",
-          "Soneta.Zadania": "2212.6.19",
+          "Soneta.Handel": "2212.5.16",
+          "Soneta.Kasa": "2212.5.16",
+          "Soneta.RealEstate": "2212.5.16",
+          "Soneta.Types": "2212.5.16",
+          "Soneta.Zadania": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         }
       },
-      "Soneta.Workflow/2212.6.19": {
+      "Soneta.Workflow/2212.5.16": {
         "dependencies": {
           "ICSharpCode.NRefactory": "5.5.1",
-          "Soneta.Business": "2212.6.19",
-          "Soneta.CRM": "2212.6.19",
-          "Soneta.Core": "2212.6.19",
+          "Soneta.Business": "2212.5.16",
+          "Soneta.CRM": "2212.5.16",
+          "Soneta.Core": "2212.5.16",
           "Soneta.Generator": "12.2.0",
-          "Soneta.Ksiega": "2212.6.19",
-          "Soneta.Types": "2212.6.19",
+          "Soneta.Ksiega": "2212.5.16",
+          "Soneta.Types": "2212.5.16",
           "System.ValueTuple": "4.5.0",
           "iTextSharp-LGPL": "4.1.6"
         }
       },
-      "Soneta.Zadania/2212.6.19": {
+      "Soneta.Zadania/2212.5.16": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3",
-          "Soneta.Business": "2212.6.19",
-          "Soneta.CRM": "2212.6.19",
-          "Soneta.Core": "2212.6.19",
+          "Soneta.Business": "2212.5.16",
+          "Soneta.CRM": "2212.5.16",
+          "Soneta.Core": "2212.5.16",
           "Soneta.Generator": "12.2.0",
           "Soneta.GoogleServiceProvider": "3.1.0",
-          "Soneta.Handel": "2212.6.19",
-          "Soneta.KadryPlace": "2212.6.19",
-          "Soneta.Kasa": "2212.6.19",
-          "Soneta.Ksiega": "2212.6.19",
-          "Soneta.Types": "2212.6.19",
+          "Soneta.Handel": "2212.5.16",
+          "Soneta.KadryPlace": "2212.5.16",
+          "Soneta.Kasa": "2212.5.16",
+          "Soneta.Ksiega": "2212.5.16",
+          "Soneta.Types": "2212.5.16",
           "System.ValueTuple": "4.5.0"
         }
       },
@@ -1900,7 +1900,7 @@
     }
   },
   "libraries": {
-    "ImportPlatnosci/1.0.0": {
+    "ImportPlatnosci/4.1.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -2584,68 +2584,68 @@
       "path": "serilog.sinks.file/5.0.0",
       "hashPath": "serilog.sinks.file.5.0.0.nupkg.sha512"
     },
-    "Soneta.BI/2212.6.19": {
+    "Soneta.BI/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-KOO1aj/9tWmRz7v1JcY1hNoLWJhI5Eebv2y+ilXAvGLKrJZKpKP8z64/kTctjaRlkKB0lIQqS6QzBkTap9yKjQ==",
-      "path": "soneta.bi/2212.6.19",
-      "hashPath": "soneta.bi.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-vrrahEzxsTvQV6Spyx8VRnRnZWeJebl/M+R1+sj99xbzWvHlG+hxBHvlgV8N/KcIT24WfjPzb6NzdXUu8KM+HQ==",
+      "path": "soneta.bi/2212.5.16",
+      "hashPath": "soneta.bi.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Business/2212.6.19": {
+    "Soneta.Business/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-gwnnOxQ0ExNVSKN3oRT1UEENoDQgf/+l6k2ltktLPE1b2UXEVbuEXjMrvrQjqKMU1e6WqiLRXJ6vzIAwxq3rBA==",
-      "path": "soneta.business/2212.6.19",
-      "hashPath": "soneta.business.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-SJUPG715X16dbOCOEez0JoGx3rlfgOl2qGjpNCuo2WA51lPRr7lR+4hrcqHGrFXJU/3513MDM/HA5PdU8r7CSA==",
+      "path": "soneta.business/2212.5.16",
+      "hashPath": "soneta.business.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Business.Licence/2212.6.19": {
+    "Soneta.Business.Licence/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-piA8IV3Hqk1DdJgQAKLrKHUAYmCJo2EoqYV++H3tQWEbqciQPvxGoUhhE/9Q5wZN6Wrv4Wgnm5qsKq3mOSXHIA==",
-      "path": "soneta.business.licence/2212.6.19",
-      "hashPath": "soneta.business.licence.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-2vpTNSpd2dHcgdvqnTRBCG7ee+nXF0XQl5V/GjJYRcQ8XBDtEWjZ0BnSi7BfcjS9yVsvBApqU5PnTsHM2j3INw==",
+      "path": "soneta.business.licence/2212.5.16",
+      "hashPath": "soneta.business.licence.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Core/2212.6.19": {
+    "Soneta.Core/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-jlk45lb5F+iuBl+J1hmWJZZWsNU/kvVtPAegoLFdnaD3KsvqF9t3YyfdFJ/4WCKOYVsMUox8q2fFnEPve5Yz4A==",
-      "path": "soneta.core/2212.6.19",
-      "hashPath": "soneta.core.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-6D9RwjWS15B3wyf78ZDB9Kc2Mfk92w1cWm8wxu8N3XlofTzsDWG/3hCPWZfmTyei5/a/Nk+ll2qyGwgF8pehRw==",
+      "path": "soneta.core/2212.5.16",
+      "hashPath": "soneta.core.2212.5.16.nupkg.sha512"
     },
-    "Soneta.CRM/2212.6.19": {
+    "Soneta.CRM/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0xLfA5Vq4oJX7llf2gvmrD63nvhwdgO3Fzkz66fTpCuCzaJROkGxFGIDNrnmlQDBAxTcJAhgKzGTBdLAb6S9ZQ==",
-      "path": "soneta.crm/2212.6.19",
-      "hashPath": "soneta.crm.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-GP+OxUezlJoR2SWNvQSeOunrgQC94yCHC2TgJMQ0HJxsKDLj2wuqWOaMwbXkv/N7RByVZ3liH7TViG5JEkDu1A==",
+      "path": "soneta.crm/2212.5.16",
+      "hashPath": "soneta.crm.2212.5.16.nupkg.sha512"
     },
-    "Soneta.CzlonkowieSzkolenia/2212.6.19": {
+    "Soneta.CzlonkowieSzkolenia/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-9d23DvDoVQOTzENT6e0TuiszMldOkVzZGsAGtOF6gt7pW79cRzH5WO9nxzJZr49aiHlHxYX2PeLF1/24ysveVg==",
-      "path": "soneta.czlonkowieszkolenia/2212.6.19",
-      "hashPath": "soneta.czlonkowieszkolenia.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-2HwqQ/aguDEMiIiTTpf9NKchdn6gbBb2e98Ouz/la2gHfySV8yCRiX+Ic4IxaqMsPLsPoRaynDHPoa7YOoTyuQ==",
+      "path": "soneta.czlonkowieszkolenia/2212.5.16",
+      "hashPath": "soneta.czlonkowieszkolenia.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Data/2212.6.19": {
+    "Soneta.Data/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-iT3uxEtpEjWM5tGMog3YFztea+Svi0JI1oe7rlPJHt9VP3vyiCGLb11zwUF83HudWIRvUN6+SfhtZ4qv1BV7zQ==",
-      "path": "soneta.data/2212.6.19",
-      "hashPath": "soneta.data.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-4ho4cD0Hvw8kw6fQkjKS4LrplV67/WlztXQV68Zto49I7Jgw55JX6BhN26vy356pC1cwLfPWHYYje3zRdo0jkQ==",
+      "path": "soneta.data/2212.5.16",
+      "hashPath": "soneta.data.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Deklaracje/2212.6.19": {
+    "Soneta.Deklaracje/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-V+Dl2J6p5FlQto6sk5KlY9AOwr+KWsYBE7/athJFH7sr7js+RjGybvqCJfAgrt8UMRyPqcOmKQDbPHpuyeEbjg==",
-      "path": "soneta.deklaracje/2212.6.19",
-      "hashPath": "soneta.deklaracje.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-kflg0b/cbVBeZNdBliCFhedZ2meLWNqcSU0BIlgS3YHOhqJ6ePn1avbZnQw6L9mFBhtQm30xGQ4WiWpIf5BcUg==",
+      "path": "soneta.deklaracje/2212.5.16",
+      "hashPath": "soneta.deklaracje.2212.5.16.nupkg.sha512"
     },
-    "Soneta.EI/2212.6.19": {
+    "Soneta.EI/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-MPdSNFXwL582DtvJ4ihl3GCVPZmKmxa10QiUHMkuj5In48+Qz6kXpFGf7tT7hTIT+J2+yWYmHA2kaNR9d46TLQ==",
-      "path": "soneta.ei/2212.6.19",
-      "hashPath": "soneta.ei.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-hNuLvzau2WvOMMMGu4QyFD+V2R4nfUGI+VVigJvMDRr9CDdDXfRdHCsW3EQtQUyGWU3cZGRVREUJ8oSKZagvMw==",
+      "path": "soneta.ei/2212.5.16",
+      "hashPath": "soneta.ei.2212.5.16.nupkg.sha512"
     },
     "Soneta.Generator/12.2.0": {
       "type": "package",
@@ -2661,33 +2661,33 @@
       "path": "soneta.googleserviceprovider/3.1.0",
       "hashPath": "soneta.googleserviceprovider.3.1.0.nupkg.sha512"
     },
-    "Soneta.Handel/2212.6.19": {
+    "Soneta.Handel/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-j3LRVNoap5CWtWCwNH9WSfuvXbPV82EcwO1jvio/ok84BcN+LJu52xhxAOh7GtNwi+/Vn75UES7Efj8FH9GqPA==",
-      "path": "soneta.handel/2212.6.19",
-      "hashPath": "soneta.handel.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-tUlG2Dmi7EuEUPM/XnEWWv6iIJBERT9ZBkx5C/eEhZ0fm7cc4EpXtNpE/E79/M+kLPEHxmVwdcYUeVLXg2ZA0A==",
+      "path": "soneta.handel/2212.5.16",
+      "hashPath": "soneta.handel.2212.5.16.nupkg.sha512"
     },
-    "Soneta.KadryPlace/2212.6.19": {
+    "Soneta.KadryPlace/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-wmk4zsBm6ZDYusSjMKjpbsHWSnVYHGLHScZQsBJvcwR3lI5wP+mJyEbhGhF7p9+GS6E+YXOeiEBipvS3g9oqKA==",
-      "path": "soneta.kadryplace/2212.6.19",
-      "hashPath": "soneta.kadryplace.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-+2gz9PAAq8aCWwNmpnQlinzC7jysIHrGuD0pfJPLCP6MjlW+eHJm1U/nULO4WQ9o0X5O07lBbJfgf7PXwMQnZA==",
+      "path": "soneta.kadryplace/2212.5.16",
+      "hashPath": "soneta.kadryplace.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Kasa/2212.6.19": {
+    "Soneta.Kasa/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-BpRbOxVgE5Lt1tNE3pP8/rOq9HSriesnGCB4Kg6Ak+7rH6DqMPFQopHzneyo2BjEwQrKFY+Ktjb+sqblU8DDsQ==",
-      "path": "soneta.kasa/2212.6.19",
-      "hashPath": "soneta.kasa.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-ZkkrnwgYNKQ2XKoZRvYlBJDu+0XHESISG2A2CRxT1vchjSSU7DIPQp8ybL2W+6RTsce5NMTN2eD8z1pWXy3kpQ==",
+      "path": "soneta.kasa/2212.5.16",
+      "hashPath": "soneta.kasa.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Ksiega/2212.6.19": {
+    "Soneta.Ksiega/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-l7E+7tZQlUgevxxbrEZssDD91D0cD7YKN10HZtZpcpc6WyDa5iPsPiR++ZURkJoEfV/qwRoV05H8ZqLu0unclQ==",
-      "path": "soneta.ksiega/2212.6.19",
-      "hashPath": "soneta.ksiega.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-bUHoPbycACjTRry1LOvqz+uchk5XM4fNRkiW98NyJFLpkO48c3DMfOi56apRLAv00HXQMlbAajW2KgJUAWmUfg==",
+      "path": "soneta.ksiega/2212.5.16",
+      "hashPath": "soneta.ksiega.2212.5.16.nupkg.sha512"
     },
     "Soneta.Licence/1.0.0": {
       "type": "package",
@@ -2710,75 +2710,75 @@
       "path": "soneta.licence.local.proxy/1.0.0",
       "hashPath": "soneta.licence.local.proxy.1.0.0.nupkg.sha512"
     },
-    "Soneta.Logging/2212.6.19": {
+    "Soneta.Logging/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-8wvujpnasO+cNWyNIsEBP1T4xBwO7SSdgi+CNvWZJPnMXOv6+iSPmRcfgDP4tBLBTomxFK2TTFMzzeQp4u7vNg==",
-      "path": "soneta.logging/2212.6.19",
-      "hashPath": "soneta.logging.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-QSrhWCEYYRQ5WWPmyDJDJ6DYKC0YR4EOb224z63ohrnnsD6tQTHJhG9mOJSjweRqg9jRwYQG8VAi78a7JAOFug==",
+      "path": "soneta.logging/2212.5.16",
+      "hashPath": "soneta.logging.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Products.Content/2212.6.19": {
+    "Soneta.Products.Content/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-LgozU8oXhqYJEKJnzlYB0JTbHh7h7VA8PitLPFNjfP2ycUk2VkEl/8fv+jma+LL1jBPpRIVeNtVdxOppRZubLA==",
-      "path": "soneta.products.content/2212.6.19",
-      "hashPath": "soneta.products.content.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-4+cURh7qnb0ujCHa/Tx9TWO1Q6U15b+2jG8AMnJQpI5DI9FmMgxLUViKuwEhCqX3LR9SKcA9R3ijw28PBBBoDg==",
+      "path": "soneta.products.content/2212.5.16",
+      "hashPath": "soneta.products.content.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Products.Modules/2212.6.19": {
+    "Soneta.Products.Modules/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-EXU0qOoBY8mN3ijHaacSxGSnpvKc9GmUZFKIWARumc1IVXIrP6fyj3BptbIXtF0zrxs76Ot3bo+gd9dj+RPNmQ==",
-      "path": "soneta.products.modules/2212.6.19",
-      "hashPath": "soneta.products.modules.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-zsDR7gebZhC/jijbwjiNgFYVbDC7hSdXGsOOmI9CAfbNIN4QjIceduE9n8886mYSctkh/t0imwYRPTjC1LCxxA==",
+      "path": "soneta.products.modules/2212.5.16",
+      "hashPath": "soneta.products.modules.2212.5.16.nupkg.sha512"
     },
-    "Soneta.RealEstate/2212.6.19": {
+    "Soneta.RealEstate/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-BMf5mEpaTZVgljT9zl+0Cau94BkXevSzL6k8zZ9yaf+Impj0Fa+MTKWyUY4lhbdbQJQ/9QcxjNOETlXV0OtfaQ==",
-      "path": "soneta.realestate/2212.6.19",
-      "hashPath": "soneta.realestate.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-qDJ0bbGTK/g6SHZT01evisQH/MTJv7xjzdg/L5GssVaR7VGDXKkTiYOz7ipTd5S3lYOR8xfoMaDQ8oGz/zc2LA==",
+      "path": "soneta.realestate/2212.5.16",
+      "hashPath": "soneta.realestate.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Start/2212.6.19": {
+    "Soneta.Start/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-SZ6WhqVF2UAloXKNByG6aJb2BK7kVMpH82tfv0PySINxpxC2Zs0a16/mNURM8nMrQaeGCWSYGF8ESC1dPdedtA==",
-      "path": "soneta.start/2212.6.19",
-      "hashPath": "soneta.start.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-LZQ/+UqwCnvMunoVxN5cXJqGvlJzByh73DDtoCI1uhP609HflmzNWtGsubw+rdQIFCOLmg/1p0fETVB8k1UssA==",
+      "path": "soneta.start/2212.5.16",
+      "hashPath": "soneta.start.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Support/2212.6.19": {
+    "Soneta.Support/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-4D1b33/pStaWsUE2dplw3mHNfgRI2emUK3KC68hS6rpx1iy9OGjg+iZdK9L7p7gFUPJZurhsF/BAlsc9/ITrqw==",
-      "path": "soneta.support/2212.6.19",
-      "hashPath": "soneta.support.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-+VwPu+lZ6A5/L5wFdDildR/cUFXdttB5q+r+VmCmyuXJmjB7DRZ8iq5vF9ivlRmbRi4Z6TvWPzYcc9NR3f4kjA==",
+      "path": "soneta.support/2212.5.16",
+      "hashPath": "soneta.support.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Types/2212.6.19": {
+    "Soneta.Types/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-aR92vDWwabfUts1sktFm0nxHlDKiJdysw7/+mfQoryeMLY6wGYnhFwmrscyuEIKcdwG/2qfT1e5fb8JfjI35Ow==",
-      "path": "soneta.types/2212.6.19",
-      "hashPath": "soneta.types.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-9g4fJDrNb/4Kaz47POK8oXRHIXptJ/XuYc/aVLq2CLXOUkpZ3p3SybbZbQ3ehCbQtHpUMc/ybnGMpgIJz+4HwA==",
+      "path": "soneta.types/2212.5.16",
+      "hashPath": "soneta.types.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Web.Business/2212.6.19": {
+    "Soneta.Web.Business/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Ek3Y6qEUQYo070S4yb+cCELD9DgIrCA3HRVk1T+leJodRGxnC6K+rPwkxubymRZAxYuQMhmB0fcg0ejaks321w==",
-      "path": "soneta.web.business/2212.6.19",
-      "hashPath": "soneta.web.business.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-sgrPoc7S751bVfNJe38+lT2Dk2111g61IGLS44Y/MrfXPX6Bv01xzkr3mlZ9sMMtHhJqxntiQ9rwQ6VY8VadvQ==",
+      "path": "soneta.web.business/2212.5.16",
+      "hashPath": "soneta.web.business.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Workflow/2212.6.19": {
+    "Soneta.Workflow/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ij4tADsCyEKbhExdruL4vTUxxIDCTrpt7jV+yCc5qpFk1pdzGKSCnJsmbwBaWzKif3hqYyZGy4vzNxr6h7vJ6g==",
-      "path": "soneta.workflow/2212.6.19",
-      "hashPath": "soneta.workflow.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-FXvIgLKwCUhF89+hptDXDKv4WAFhvJuBBaFfkQLesK69WLMnR5VV0ThotcLKnqVUKfElyqkmUpj60cww/kO9LA==",
+      "path": "soneta.workflow/2212.5.16",
+      "hashPath": "soneta.workflow.2212.5.16.nupkg.sha512"
     },
-    "Soneta.Zadania/2212.6.19": {
+    "Soneta.Zadania/2212.5.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-lq+zBret8MDaZh4jV789kBactKsWJ3fkJY9AzmFgjEyYV9DnF8e4DSV9S0UpfoHabf97Vnd/c8KD6NnP6FphJA==",
-      "path": "soneta.zadania/2212.6.19",
-      "hashPath": "soneta.zadania.2212.6.19.nupkg.sha512"
+      "sha512": "sha512-e/gLlZtVANZxGaRGp+veWMHH6hpC6YsR/uYsCC1rldinmFnL48BPXZ2bQKdO/7gVlCPvfFLbfzkvScwrwzxxWA==",
+      "path": "soneta.zadania/2212.5.16",
+      "hashPath": "soneta.zadania.2212.5.16.nupkg.sha512"
     },
     "Syncfusion.Compression.Base/17.2.0.46": {
       "type": "package",

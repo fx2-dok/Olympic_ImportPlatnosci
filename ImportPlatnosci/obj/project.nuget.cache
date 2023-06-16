@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GoKMfo/pYCA9wgSUZpmH5G51oOSu6uZzSwAmyDMSyNAAWhAFcOlOqhZAIg+ocfVnQoD5K4pdxYjjD5WZUyPtUQ==",
+  "dgSpecHash": "A7D8rAw+XRPM5N3ME6pBw4la8t3/rAl9em0DRd0PyYDmLiajHrD3uKCnPhLinAjxZvdu9/iSgaQkQEZ6iPomfQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\dawid\\source\\repos\\Olympic\\ImportPlatnosci\\ImportPlatnosci.csproj",
   "expectedPackageFiles": [
@@ -101,34 +101,34 @@
     "C:\\Users\\dawid\\.nuget\\packages\\serilog.extensions.logging\\3.1.0\\serilog.extensions.logging.3.1.0.nupkg.sha512",
     "C:\\Users\\dawid\\.nuget\\packages\\serilog.sinks.console\\4.0.0\\serilog.sinks.console.4.0.0.nupkg.sha512",
     "C:\\Users\\dawid\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.bi\\2212.6.19\\soneta.bi.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.business\\2212.6.19\\soneta.business.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.business.licence\\2212.6.19\\soneta.business.licence.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.core\\2212.6.19\\soneta.core.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.crm\\2212.6.19\\soneta.crm.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.czlonkowieszkolenia\\2212.6.19\\soneta.czlonkowieszkolenia.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.data\\2212.6.19\\soneta.data.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.deklaracje\\2212.6.19\\soneta.deklaracje.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.ei\\2212.6.19\\soneta.ei.2212.6.19.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.bi\\2212.5.16\\soneta.bi.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.business\\2212.5.16\\soneta.business.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.business.licence\\2212.5.16\\soneta.business.licence.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.core\\2212.5.16\\soneta.core.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.crm\\2212.5.16\\soneta.crm.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.czlonkowieszkolenia\\2212.5.16\\soneta.czlonkowieszkolenia.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.data\\2212.5.16\\soneta.data.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.deklaracje\\2212.5.16\\soneta.deklaracje.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.ei\\2212.5.16\\soneta.ei.2212.5.16.nupkg.sha512",
     "C:\\Users\\dawid\\.nuget\\packages\\soneta.generator\\12.2.0\\soneta.generator.12.2.0.nupkg.sha512",
     "C:\\Users\\dawid\\.nuget\\packages\\soneta.googleserviceprovider\\3.1.0\\soneta.googleserviceprovider.3.1.0.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.handel\\2212.6.19\\soneta.handel.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.kadryplace\\2212.6.19\\soneta.kadryplace.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.kasa\\2212.6.19\\soneta.kasa.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.ksiega\\2212.6.19\\soneta.ksiega.2212.6.19.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.handel\\2212.5.16\\soneta.handel.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.kadryplace\\2212.5.16\\soneta.kadryplace.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.kasa\\2212.5.16\\soneta.kasa.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.ksiega\\2212.5.16\\soneta.ksiega.2212.5.16.nupkg.sha512",
     "C:\\Users\\dawid\\.nuget\\packages\\soneta.licence\\1.0.0\\soneta.licence.1.0.0.nupkg.sha512",
     "C:\\Users\\dawid\\.nuget\\packages\\soneta.licence.local\\1.0.0\\soneta.licence.local.1.0.0.nupkg.sha512",
     "C:\\Users\\dawid\\.nuget\\packages\\soneta.licence.local.proxy\\1.0.0\\soneta.licence.local.proxy.1.0.0.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.logging\\2212.6.19\\soneta.logging.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.products.content\\2212.6.19\\soneta.products.content.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.products.modules\\2212.6.19\\soneta.products.modules.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.realestate\\2212.6.19\\soneta.realestate.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.start\\2212.6.19\\soneta.start.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.support\\2212.6.19\\soneta.support.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.types\\2212.6.19\\soneta.types.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.web.business\\2212.6.19\\soneta.web.business.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.workflow\\2212.6.19\\soneta.workflow.2212.6.19.nupkg.sha512",
-    "C:\\Users\\dawid\\.nuget\\packages\\soneta.zadania\\2212.6.19\\soneta.zadania.2212.6.19.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.logging\\2212.5.16\\soneta.logging.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.products.content\\2212.5.16\\soneta.products.content.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.products.modules\\2212.5.16\\soneta.products.modules.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.realestate\\2212.5.16\\soneta.realestate.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.start\\2212.5.16\\soneta.start.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.support\\2212.5.16\\soneta.support.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.types\\2212.5.16\\soneta.types.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.web.business\\2212.5.16\\soneta.web.business.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.workflow\\2212.5.16\\soneta.workflow.2212.5.16.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\soneta.zadania\\2212.5.16\\soneta.zadania.2212.5.16.nupkg.sha512",
     "C:\\Users\\dawid\\.nuget\\packages\\syncfusion.compression.base\\17.2.0.46\\syncfusion.compression.base.17.2.0.46.nupkg.sha512",
     "C:\\Users\\dawid\\.nuget\\packages\\syncfusion.licensing\\17.2.0.46\\syncfusion.licensing.17.2.0.46.nupkg.sha512",
     "C:\\Users\\dawid\\.nuget\\packages\\syncfusion.pdf.ocr.winforms\\17.2.0.46\\syncfusion.pdf.ocr.winforms.17.2.0.46.nupkg.sha512",
@@ -327,7 +327,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.BI 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.BI 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.BI",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -337,7 +337,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.Business.Licence 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.Business.Licence 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.Business.Licence",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -347,7 +347,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.Core 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.Core 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.Core",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -357,7 +357,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.CRM 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.CRM 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.CRM",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -367,7 +367,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.CzlonkowieSzkolenia 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.CzlonkowieSzkolenia 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.CzlonkowieSzkolenia",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -377,7 +377,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.Deklaracje 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.Deklaracje 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.Deklaracje",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -387,7 +387,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.EI 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.EI 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.EI",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -407,7 +407,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.Handel 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.Handel 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.Handel",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -417,7 +417,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.KadryPlace 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.KadryPlace 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.KadryPlace",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -427,7 +427,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.Kasa 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.Kasa 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.Kasa",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -437,7 +437,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.Ksiega 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.Ksiega 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.Ksiega",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -457,7 +457,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.RealEstate 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.RealEstate 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.RealEstate",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -467,7 +467,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.Support 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.Support 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.Support",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -477,7 +477,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.Web.Business 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.Web.Business 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.Web.Business",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -487,7 +487,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.Workflow 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.Workflow 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.Workflow",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -497,7 +497,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Soneta.Zadania 2212.6.19” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Pakiet „Soneta.Zadania 2212.5.16” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „.NETStandard,Version=v2.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
       "libraryId": "Soneta.Zadania",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"

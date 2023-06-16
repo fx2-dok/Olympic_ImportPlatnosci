@@ -12,7 +12,7 @@ using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
 
-[assembly: Worker(typeof(ImportPlatnosci.ImportPlatnosciDPD), typeof(Soneta.Kasa.RaportESP))]
+[assembly: Worker(typeof(ImportPlatnosci.ImportPlatnosciPAYU), typeof(Soneta.Kasa.RaportESP))]
 
 namespace ImportPlatnosci
 {
@@ -60,7 +60,8 @@ namespace ImportPlatnosci
 
                 if (linia != null && temp != 0 && linia != "")
                 {
-
+                    if (linia.Contains("26\"\",28")) //obsługa nadmiarowych przecinków
+                        linia = linia.Replace("26\"\",28", "26\"\"-28");
                     var kawalki = Regex.Split(linia, "\",");
                     id = kawalki[2].ToString().Replace("\"", "");
                     data = kawalki[0].Replace("\"", "");

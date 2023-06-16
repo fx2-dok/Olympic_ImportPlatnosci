@@ -11,7 +11,7 @@ using System.Drawing;
 using System.IO;
 using System.Text;
 
-[assembly: Worker(typeof(ImportPlatnosci.ImportPlatnosciDPD), typeof(Soneta.Kasa.RaportESP))]
+[assembly: Worker(typeof(ImportPlatnosci.ImportPlatnosciDOTPAY), typeof(Soneta.Kasa.RaportESP))]
 
 namespace ImportPlatnosci
 {

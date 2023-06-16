@@ -11,7 +11,7 @@ using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
 
-[assembly: Worker(typeof(ImportPlatnosci.ImportPlatnosciDPD), typeof(Soneta.Kasa.RaportESP))]
+[assembly: Worker(typeof(ImportPlatnosci.ImportPlatnosciBLUEMEDIA), typeof(Soneta.Kasa.RaportESP))]
 
 namespace ImportPlatnosci
 {
